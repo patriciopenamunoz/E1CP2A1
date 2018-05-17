@@ -51,7 +51,7 @@ li::before{
   content: "- "
 }
 #item-2::before{
-  content: "&"
+  content: "µ"
 }
 #item-3::before{
   content: "©"
